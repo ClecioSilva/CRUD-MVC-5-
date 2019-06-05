@@ -1,0 +1,58 @@
+﻿@model RE.SistemaFaculdade.Application.ViewModels.AlunoViewModel
+
+
+@{
+
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Aluno</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tel)
+        </dt>
+
+        <dd>
+            Incorrect syntax near '*'.
+            @Html.DisplayFor(model => model.Tel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+
+
+<hr />
+<hr />
+<div>
+    <h4>Custo Aluno</h4>
+    <hr />
+    <dl class="dl-horizontal">
+       
+    </dl>
+</div>
+
+
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.AlunoId }) |
+    @Html.ActionLink("Voltar para Lista", "Index")
+</p>

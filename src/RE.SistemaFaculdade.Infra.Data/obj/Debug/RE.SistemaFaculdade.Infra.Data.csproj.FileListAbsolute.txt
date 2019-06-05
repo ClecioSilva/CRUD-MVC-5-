@@ -1,0 +1,16 @@
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\RE.SistemaFaculdade.Infra.Data.dll.config
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\RE.SistemaFaculdade.Infra.Data.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\RE.SistemaFaculdade.Infra.Data.pdb
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\RE.SistemaFaculdade.Domain.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\RE.SistemaFaculdade.Domain.pdb
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\obj\Debug\RE.SistemaFaculdade.Infra.Data.csprojAssemblyReference.cache
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\obj\Debug\RE.SistemaFaculdade.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\obj\Debug\RE.SistemaFaculdade.Infra.Data.csproj.CopyComplete
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\obj\Debug\RE.SistemaFaculdade.Infra.Data.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\obj\Debug\RE.SistemaFaculdade.Infra.Data.pdb
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Infra.Data\bin\Debug\Dapper.xml

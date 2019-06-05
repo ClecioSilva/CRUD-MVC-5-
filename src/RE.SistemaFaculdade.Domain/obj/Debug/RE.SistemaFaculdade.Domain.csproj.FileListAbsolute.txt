@@ -1,0 +1,6 @@
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Domain\bin\Debug\RE.SistemaFaculdade.Domain.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Domain\bin\Debug\RE.SistemaFaculdade.Domain.pdb
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Domain\obj\Debug\RE.SistemaFaculdade.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Domain\obj\Debug\RE.SistemaFaculdade.Domain.dll
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Domain\obj\Debug\RE.SistemaFaculdade.Domain.pdb
+C:\Users\cle_g\source\repos\SistemaFaculdadeMaio\src\RE.SistemaFaculdade.Domain\obj\Debug\RE.SistemaFaculdade.Domain.csprojAssemblyReference.cache
