@@ -58,6 +58,10 @@
     <Compile Include="EntityConfig\CustoAlunoConfig.cs" />
     <Compile Include="EntityConfig\CustoFaculdadeConfig.cs" />
     <Compile Include="EntityConfig\ProfissaoConfig.cs" />
+    <Compile Include="Migrations\201906110145482_init.cs" />
+    <Compile Include="Migrations\201906110145482_init.Designer.cs">
+      <DependentUpon>201906110145482_init.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\AlunoRepository.cs" />
@@ -72,6 +76,11 @@
       <Project>{20a2a610-9f8c-46c6-9c78-f24a94a59567}</Project>
       <Name>RE.SistemaFaculdade.Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201906110145482_init.resx">
+      <DependentUpon>201906110145482_init.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
