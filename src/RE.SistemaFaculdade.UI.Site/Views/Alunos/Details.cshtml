@@ -25,7 +25,6 @@
         </dt>
 
         <dd>
-            Incorrect syntax near '*'.
             @Html.DisplayFor(model => model.Tel)
         </dd>
 
@@ -47,7 +46,55 @@
     <h4>Custo Aluno</h4>
     <hr />
     <dl class="dl-horizontal">
-       
+
+        @if (Model.CustoAlunos != null)
+        {
+            <table>
+                <thead>
+                    <tr>
+                        <th>Custo</th>
+                        <th>Valor</th>
+                    </tr>
+                </thead>
+                @foreach (var custo in Model.CustoAlunos)
+                {
+                    <tr>
+                        <td>Transporte:</td>
+                        <td>@custo.Transporte     </td>
+                    </tr>
+                    <tr>
+                        <td>Alimentacao:</td>
+                        <td> @custo.Alimentacao </td>
+                    </tr>
+                    <tr>
+                        <td>Aluguel:</td>
+                        <td>@custo.Aluguel</td>
+                    </tr>
+                    <tr>
+                        <td>Agua:</td>
+                        <td>@custo.Agua </td>
+                    </tr>
+                    <tr>
+                        <td>Luz:</td>
+                        <td>@custo.Luz </td>
+                    </tr>
+                    <tr>
+                        <td>Gaz:</td>
+                        <td> @custo.Gaz</td>
+                    </tr>
+                    <tr>
+                        <td>Internet:</td>
+                        <td> @custo.Internet</td>
+                    </tr>
+                    <tr>
+                        <td>Roupa:</td>
+                        <td>@custo.Roupa</td>
+                    </tr>
+
+                }
+            </table>
+        }
+
     </dl>
 </div>
 
